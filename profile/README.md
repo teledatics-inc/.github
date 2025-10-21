@@ -5,8 +5,8 @@ Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, 
 ---
 ![World Record Link](images/WiFi_Halow_Record_2024_Mount_Greylock_Peak.jpg)
 
-## World Record Wi-FI HaLow Link
-- **Mount Greylock to Mount Wachusett in Massacusetts, USA**
+## World Record Wi-Fi HaLow Link
+- **Mount Greylock to Mount Wachusett in Massachusetts, USA**
 - **106 kilometer / 66 mile link**
 - - **White Paper** → https://github.com/teledatics-inc/.github/tree/main/profile/docs/Teledatics_WiFi_HaLow_Distance_Record_White_Paper_July2024.pdf
 -  **Teledatics 1W HaloMax 902-928 MHz module**
