@@ -3,11 +3,12 @@
 Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, dev kits, drivers, and open tooling for connecting intelligent systems—drones & rovers, ag‑tech, industrial control, off‑grid comms, and more.
 
 ---
-![World Record Link](https://cdn.prod.website-files.com/66bce838f318605ea03a1c19/66ce0fd0b114834768af5607_Mount_Greylock_Peak.jpg)
+![World Record Link](./images/WiFi_Halow_Record_2024_Mount_Greylock_Peak.jpg)
+
 ## World Record Wi-FI HaLow Link
 - **Mount Greylock to Mount Wachusett in Massacusetts, USA**
 - **106 kilometer / 66 mile link**
-- - **White Paper** → https://teledatics.com/Teledatics_WiFi_HaLow_Distance_Record_White_Paper_July2024.pdf
+- - **White Paper** → https://github.com/teledatics-inc/.github/tree/main/profile/docs/Teledatics_WiFi_HaLow_Distance_Record_White_Paper_July2024.pdf
 -  **Teledatics 1W HaloMax 902-928 MHz module**
 
 ---
@@ -104,7 +105,7 @@ Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, 
 
 ## Contributing
 
-We ❤️ contributions in the form of bug reports, docs, tests, drivers, example apps, and daughterboard designs.
+We ❤ contributions in the form of bug reports, docs, tests, drivers, example apps, and daughterboard designs.
 
 1. Fork the relevant repo, create a feature branch, and open a PR.
 2. Follow code style:
