@@ -3,6 +3,7 @@
 Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, dev kits, drivers, and open tooling for connecting intelligent systems—drones & rovers, ag‑tech, industrial control, off‑grid comms, and more.
 
 ---
+![World Record Link](https://cdn.prod.website-files.com/66bce838f318605ea03a1c19/66ce0fd0b114834768af5607_Mount_Greylock_Peak.jpg)
 ## World Record Wi-FI HaLow Link
 - **Mount Greylock to Mount Wachusett in Massacusetts, USA**
 - **106 kilometer / 66 mile link**
@@ -40,7 +41,7 @@ Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, 
 - **TD‑WRLS daughterboards (open HW)** → https://github.com/teledatics/TD-WRLS_Hats  
 - **AI drone & rover control** → https://github.com/teledatics/ai-drone-control  
 
-> Community: Join the Teledatics [Discord Server](https://discord.gg/WpguKNMR7H) (linked from product pages) to ask questions, collaborate, and share field results.
+> Community: Join the Teledatics Discord (linked from product pages) to ask questions, collaborate, and share field results.
 
 ---
 
@@ -96,7 +97,7 @@ Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, 
 
 - **Docs**: https://teledatics.com/docs  
 - **Issues**: Use the relevant repo’s **Issues** tab for bugs and feature requests.  
-- **Discussions / Community**: Join the [Discord Server](https://discord.gg/WpguKNMR7H) linked from the product pages for setup questions, RF tuning tips, and field reports.  
+- **Discussions / Community**: Join the Discord linked from the product pages for setup questions, RF tuning tips, and field reports.  
 - **Commercial & certification**: Contact Teledatics for enterprise support, module certification questions, or custom builds.
 
 ---
