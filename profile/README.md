@@ -3,7 +3,7 @@
 Ultra‑long‑range, low‑power **Wi‑Fi HaLow™ (IEEE 802.11ah)** modules, dev kits, drivers, and open tooling for connecting intelligent systems—drones & rovers, ag‑tech, industrial control, off‑grid comms, and more.
 
 ---
-![World Record Link](./profile/images/WiFi_Halow_Record_2024_Mount_Greylock_Peak.jpg)
+![World Record Link](profile/images/WiFi_Halow_Record_2024_Mount_Greylock_Peak.jpg)
 
 ## World Record Wi-FI HaLow Link
 - **Mount Greylock to Mount Wachusett in Massacusetts, USA**
